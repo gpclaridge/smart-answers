@@ -23,10 +23,6 @@
 
   <%= render partial: 'you_will_be_asked_for_cni.govspeak.erb' %>
 
-  <% if calculator.ceremony_country == 'denmark' %>
-    ^You don’t need a CNI if you’re getting married in the main town hall in Copenhagen.^
-
-  <% end %>
   <% if calculator.resident_of_uk? %>
     <%= render partial: 'cni_at_local_register_office.govspeak.erb' %>
     <%= render partial: 'cni_issued_locally_validity.govspeak.erb',
@@ -34,8 +30,7 @@
   <% end %>
   <% if calculator.resident_of_uk? %>
 
-      <%= render partial: 'legisation_and_translation_intro_uk.govspeak.erb',
-                 locals: { calculator: calculator } %>
+    You should also check if it your CNI needs to be:
 
       <%= render partial: 'legalise_translate_and_check_with_authorities.govspeak.erb',
                  locals: { calculator: calculator } %>
@@ -69,6 +64,16 @@
   <% end %>
 
   <%= render partial: 'names_on_documents_must_match.govspeak.erb' %>
+
+  ###No trace letters
+
+  The Danish authorities will sometimes accept a ‘no trace letter’ instead of a CNI. Check with the Danish authorities to find out if they’ll accept a ‘no trace letter’.
+
+  You can get a ‘no trace letter’ from the General Register Office. Ask them to make a search and quote reference ‘SEARCH 123’.
+
+  $C
+  +44 (0)300 123 1837 (8am to 8pm Monday to Friday and 9am to 4pm Saturday)
+  $C
 
   <% if calculator.resident_of_ceremony_country? %>
 
