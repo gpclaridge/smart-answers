@@ -34,8 +34,8 @@ Fill in [form LS01, 'Lost or Stolen Passport Notification'](/government/publicat
 
 Service | Fee
 -|-
-Register a death | £105
-Copy of a death registration certificate | £65
+Register a death | £150
+Copy of a death registration certificate | £50
 
 You normally have to pay fees for consular services in the local currency - these are shown in the list of [consular fees](/government/organisations/foreign-commonwealth-office/series/consular-fees).
 
