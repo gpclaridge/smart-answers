@@ -14,7 +14,7 @@ Make an appointment at the British embassy in Bogota to swear an affidavit (writ
 
 Service | Fee
 -|-
-Affidavit or affirmation for marriage | £55
+Affidavit or affirmation for marriage | £50
 
 [Make an appointment at the embassy in Bogota.](https://www.consular-appointments.service.gov.uk/fco/#!/british-embassy-bogot%25C3%25A1/oaths-affirmations-and-affidavits/slot_picker)
 
