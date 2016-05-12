@@ -47,16 +47,16 @@ Once you’ve paid you will be given a reference number to use on your birth reg
 
 Service | Fee
 -|-
-Register a birth | £105
-Copy of a birth registration certificate | £65
+Register a birth | £150
+Copy of a birth registration certificate | £50
 
 You must also pay for your documents to be returned to you.
 
 Postage destination | Fee
 -|-
-UK address or British Forces Post Office | £4.50
-Europe (excluding Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Liechtenstein, Macedonia, Moldova, Montenegro, Russia, Serbia, Turkey and Ukraine) | £12.50
-Rest of world | £22
+UK address or British Forces Post Office | £5.50
+Europe (excluding Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Liechtenstein, Macedonia, Moldova, Montenegro, Russia, Serbia, Turkey and Ukraine) | £14.50
+Rest of world | £25
 
 <a rel="nofollow" href= "https://pay-register-birth-abroad.service.gov.uk/start" class="big button">Pay now</a>
 
