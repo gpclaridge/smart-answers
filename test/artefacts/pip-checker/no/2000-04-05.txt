@@ -1,12 +1,11 @@
 
 
-$!The child isn’t affected by Personal Independence Payment (PIP) because they’re under 16.$!
+$!You can make a claim for [Personal Independence Payment (PIP)](/pip).$!
 
-To qualify for PIP the child must be 16 or over.
-
-Instead of PIP, you can make a claim for [Disability Living Allowance](/disability-living-allowance-children) for the child until they turn 16.
+You can no longer make a claim for Disability Living Allowance (DLA) because PIP has replaced DLA for people aged 16 to 64.
 
 *[PIP]: Personal Independence Payment
+*[DLA]: Disability Living Allowance
 
 
 
