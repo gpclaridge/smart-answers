@@ -32,8 +32,10 @@ class FlowRegistrationPresenter
   end
 
   module MethodMissingHelper
+    TO_S_OVERRIDES = {}
+
     def method_missing(method, *_args, &_block)
-      MethodMissingObject.new(method, parent_method = nil, blank_to_s = true)
+      MethodMissingObject.new(method, parent_method = nil, blank_to_s = true, TO_S_OVERRIDES)
     end
   end
 
